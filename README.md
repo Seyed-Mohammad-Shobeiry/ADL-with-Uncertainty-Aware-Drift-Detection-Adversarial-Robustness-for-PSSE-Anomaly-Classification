@@ -1,0 +1,2 @@
+# ADL-with-Uncertainty-Aware-Drift-Detection-Adversarial-Robustness-for-PSSE-Anomaly-Classification
+PSSE faces FDIA and sudden load changes under concept drift. This work proposes an ADL framework with uncertainty-aware drift detection and adversarial training. Using temporal attention, MC Dropout, and FGSM, it achieves robust anomaly classification, sustaining high accuracy under drift and adversarial attacks.
